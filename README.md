@@ -5,6 +5,9 @@
 - Potential savings if replace OD with Spot or RI (if available)
 ##setup  
 ```
+python setup.py install
+```
+```
 export AWS_ACCESS_KEY_ID=''
 export AWS_SECRET_ACCESS_KEY='' 
 ```

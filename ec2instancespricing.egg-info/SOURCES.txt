@@ -1,0 +1,8 @@
+setup.py
+ec2instancespricing/__init__.py
+ec2instancespricing/ec2instancespricing.py
+ec2instancespricing.egg-info/PKG-INFO
+ec2instancespricing.egg-info/SOURCES.txt
+ec2instancespricing.egg-info/dependency_links.txt
+ec2instancespricing.egg-info/requires.txt
+ec2instancespricing.egg-info/top_level.txt
